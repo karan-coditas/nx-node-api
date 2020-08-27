@@ -1,3 +1,16 @@
+## STEPS TO START
+
+
+> NPM INSTALL
+
+> NPM RUN BUILD
+
+> Build is generated in /dist/apps/<proj_name(api)>
+
+> run dist/main.js using pm2 or any node  server
+
+
+
 # NxNode
 
 This project was generated using [Nx](https://nx.dev).
